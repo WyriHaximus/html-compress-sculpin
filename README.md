@@ -2,9 +2,9 @@ HtmlCompress for Sculpin
 ========================
 
 [![Build Status](https://travis-ci.org/WyriHaximus/html-compress-sculpin.png)](https://travis-ci.org/WyriHaximus/html-compress-sculpin)
-[![Latest Stable Version](https://poser.pugx.org/WyriHaximus/html-compress-sculpin/v/stable.png)](https://packagist.org/packages/WyriHaximus/html-compress-sculpin)
-[![Total Downloads](https://poser.pugx.org/WyriHaximus/html-compress-sculpin/downloads.png)](https://packagist.org/packages/WyriHaximus/html-compress-sculpin)
-[![Coverage Status](https://coveralls.io/repos/WyriHaximus/html-compress-sculpin/badge.png)](https://coveralls.io/r/WyriHaximus/html-compress-sculpin)
+[![Latest Stable Version](https://poser.pugx.org/wyrihaximus/html-compress-sculpin/v/stable.png)](https://packagist.org/packages/wyrihaximus/html-compress-sculpin)
+[![Total Downloads](https://poser.pugx.org/wyrihaximus/html-compress-sculpin/downloads.png)](https://packagist.org/packages/WyriHaximus/html-compress-sculpin)
+[![Code Coverage](https://scrutinizer-ci.com/g/WyriHaximus/html-compress-sculpin/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/WyriHaximus/html-compress-sculpin/?branch=master)
 [![License](https://poser.pugx.org/wyrihaximus/html-compress-sculpin/license.png)](https://packagist.org/packages/wyrihaximus/html-compress-sculpin)
 
 ## Installation ##

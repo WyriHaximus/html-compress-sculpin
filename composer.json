@@ -11,7 +11,8 @@
     ],
     "keywords": [
         "html",
-        "compress"
+        "compress",
+        "sculpin"
     ],
     "require": {
         "php": ">=5.4.0",

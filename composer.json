@@ -1,0 +1,40 @@
+{
+    "name": "wyrihaximus/html-compress-sculpin",
+    "description": "Compress/minify your HTML for Sculpin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cees-Jan Kiewiet",
+            "email": "ceesjank@gmail.com",
+            "homepage": "http://wyrihaximus.net/"
+        }
+    ],
+    "keywords": [
+        "html",
+        "compress"
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "wyrihaximus/html-compress": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.0",
+        "phake/phake": "^1.0",
+        "sculpin/sculpin": "2.*@dev",
+        "composer/composer": "@dev",
+        "dflydev/embedded-composer-core": "@dev",
+        "dflydev/embedded-composer-console": "@dev",
+        "vectorface/dunit": "^2.0",
+        "squizlabs/php_codesniffer": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WyriHaximus\\HtmlCompress\\Integrations\\Sculpin\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WyriHaximus\\HtmlCompress\\Tests\\Integrations\\Sculpin\\": "tests/"
+        }
+    }
+}
